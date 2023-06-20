@@ -25,6 +25,11 @@ make createsuperuser
 ```
 
 
+Run tests
+```bash
+make test
+```
+
 
 Follow the prompts to enter the superuser's username and password.
 
